@@ -9,3 +9,7 @@ Made this one in 2022 !
 
 If you clicked this, you probably also like [more secrets](https://kuber.studio/#/secret)
 Hope you have a great day/ evening internet stranger :)
+
+You can also change who commited just by changing the commit details
+
+ — **Linus Torvalds** (not really)
